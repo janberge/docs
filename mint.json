@@ -33,13 +33,13 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Overview",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Travel Bookings",
+      "icon": "plane",
       "url": "https://mintlify.com/community"
     },
     {
